@@ -15,7 +15,7 @@
 
 ## Table of Contents
 
-[1. Exploit Detection](https://github.com/deep-observability-lab/bpftrace-scripts/tree/main/Exploit%20Detection) <br />
+[1. Adaptive Tracing for Real-Time Exploit Detection](https://github.com/deep-observability-lab/bpftrace-scripts/tree/main/Exploit%20Detection) <br />
 
 ### Description
 
