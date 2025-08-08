@@ -19,4 +19,4 @@
 
 ### Description
 
-A collection of bpftrace projects of various interestingness!
+A collection of bpftrace and other tracing projects of various interestingness!
